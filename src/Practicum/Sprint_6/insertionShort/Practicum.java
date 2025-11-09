@@ -1,4 +1,4 @@
-package Practicum.Sprint_6;
+package Practicum.Sprint_6.insertionShort;
 
 import java.util.Arrays;
 
