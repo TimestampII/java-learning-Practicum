@@ -45,7 +45,6 @@ public class HandMadeArrayList<T> {
         for (int i = 0; i < size; i++) {
             newArray[i] = elements[i];
         }
-
         // Возвращаемый новый массив
         this.elements = newArray;
     }
