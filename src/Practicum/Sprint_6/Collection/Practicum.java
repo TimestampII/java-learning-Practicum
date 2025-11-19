@@ -1,4 +1,4 @@
-package Practicum.Sprint_6.Collections;
+package Practicum.Sprint_6.Collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
