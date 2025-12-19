@@ -1,4 +1,4 @@
-package Practicum.Sprint_7.String.QuestString.StringBuilder.Quest;
+package Practicum.Sprint_7.String.QuestString.StringBuilder;
 
 public class FindRepeats {
     int numberOfRepeats(String text, String substring) {
